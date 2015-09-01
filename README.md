@@ -3,6 +3,6 @@ ORIGANO's → FastFood Jekyll web app
 
 Run Application
 
-$ jekyll serve
+```$ jekyll serve```
 
-# => Now browse to http://localhost:4000
+Now, browse to http://localhost:4000
